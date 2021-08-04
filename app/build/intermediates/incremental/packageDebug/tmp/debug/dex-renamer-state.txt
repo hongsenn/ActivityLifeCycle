@@ -1,0 +1,4 @@
+#Wed Aug 04 12:12:54 SGT 2021
+base.0=D\:\\Senn\\202106\\Mobile\\Practical\\ActivityLifeCycle\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex

@@ -1,0 +1,2 @@
+com/example/activitylifecycle/BuildConfig.java
+ com.example.activitylifecycle.BuildConfig
